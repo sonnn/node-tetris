@@ -2,7 +2,12 @@
 
 Tetris game with nodejs in terminal. (require node 7)
 
-### Play 
+### Play
+
+move by arrow key
+rotate by space
+ctl + c or esc to escape 
+
 ```
 node ./index.js
 ```
