@@ -9,7 +9,7 @@ rotate by space
 ctl + c or esc to escape 
 
 ```
-node ./index.js
+node .
 ```
 
 ![alt text](https://github.com/sonnn/node-tetris/blob/master/screen-shoot.png)
